@@ -1,21 +1,33 @@
 {
-  "greeting": "Hilo hiloo!",
-  "name": "Ilmiah Rizki Fachriyatul Mufidah",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "Hai!",
+  "name": "Ilmiah Rizki",
+  "greetingText": "Aku sungguh suka namamu, btw",
+  "wishText": "Officially sekarang neng udah 20 tahun. Happy birthday sayang. Happy 20th Birthday, my love! 🎂🎉
+
+  You're officially in your twenties, a beautiful age where the world is your oyster, and you're just beginning to explore all the wonders it holds. As we celebrate your special day today, I can't help but look ahead to the years to come.
+  
+  In the blink of an eye, you'll be 25, still youthful, full of dreams, and making amazing memories together.
+  
+  At 30, you'll have accomplished so much, and I'll be right by your side, supporting you in every way possible.
+  
+  35 will come, and you'll be as radiant as ever. Our love will have grown stronger with time, just like you.
+  
+  And when 40 arrives, you'll be more stunning and accomplished than ever before, and I'll be here, still holding your hand and cherishing every moment with you.
+  
+  Here's to the incredible journey we're embarking on together, and to the countless memories we'll create in the years to come. Happy 20th, my forever young and forever loved girlfriend! 🥂💖"",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
-  "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
-  "text4": "I realised, I wanted to do something",
-  "text4Adjective": "special",
-  "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "textInChatBox": "Selamat ulang tahun, semoga panjang umur. blah blah",
+  "sendButtonLabel": "Kirim",
+  "text2": "Itu yang ingin kulakukan",
+  "text3": "Tapi meh, klasik",
+  "text4": "Aku sadar aku ingin melakukan hal yang",
+  "text4Adjective": "spesial",
+  "text5Entry": "Karena",
+  "text5Content": "Neng Ilmiah Spesial",
   "smiley": ":)",
-  "bigTextPart1": "S",
-  "bigTextPart2": "O",
+  "bigTextPart1": "JA",
+  "bigTextPart2": "DI",
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
