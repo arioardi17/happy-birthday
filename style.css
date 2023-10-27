@@ -84,12 +84,24 @@ body {
   padding: 5px 8px;
   border-radius: 3px;
 }
-
+.five {
+  display:none;
+}
+.six {
+  display:none;
+}
+.seven {
+  display:none;
+}
+.eight {
+  display:none;
+}
 .five p {
   font-size: 2rem;
   position: absolute;
   left: 0;
   right: 0;
+  display:none;
 }
 
 .idea-3 strong {
